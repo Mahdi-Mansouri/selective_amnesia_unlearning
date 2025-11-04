@@ -6,6 +6,8 @@ original model:
 
 ![Original VAE model on MNIST Dataset](original_model.jpg)
 
+![Original VAE model on MNIST Dataset](original_model_2.jpg)
+
 unlearned model:
 
 ![Unlearned VAE model, can not generate number 5](unlearned_model.jpg)
